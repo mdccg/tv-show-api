@@ -107,11 +107,11 @@ $ yarn start
 Para npm:
 
 ```console
-npm run cy:run
+$ npm run cy:run
 ```
 
 Para Yarn:
 
 ```console
-yarn cy:run
+$ yarn cy:run
 ```
