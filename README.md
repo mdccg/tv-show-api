@@ -12,7 +12,7 @@
 
 ## Motivação
 
-Este app uma API de cadastro e consultas de séries de TV e _streaming_. Ela permite que os usuários cadastrem novas séries informando detalhes como título, data de estreia, idioma, gênero principal e URL do pôster (opcional).
+Este app consiste em uma API de cadastro e consultas de séries de TV e _streaming_. Ela permite que os usuários cadastrem novas séries informando detalhes como título, data de estreia, idioma, gênero principal e URL do pôster (opcional).
 
 A API possui dois _endpoints_ principais:
 
